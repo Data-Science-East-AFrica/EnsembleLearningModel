@@ -14,8 +14,8 @@ Ensemble learning helps improve machine learning results by combining several mo
 
 #### **Ensemble methods can be divided into two groups:** 
 
- - sequential ensemble methods where the base learners are generated sequentially (e.g. AdaBoost).
+ - **sequential** ensemble methods where the base learners are generated sequentially (e.g. AdaBoost).
 The basic motivation of sequential methods is to exploit the dependence between the base learners. The overall performance can be boosted by weighing previously mislabeled examples with higher weight.
 
- - parallel ensemble methods where the base learners are generated in parallel (e.g. Random Forest).
+ - **parallel** ensemble methods where the base learners are generated in parallel (e.g. Random Forest).
 The basic motivation of parallel methods is to exploit independence between the base learners since the error can be reduced dramatically by averaging.
