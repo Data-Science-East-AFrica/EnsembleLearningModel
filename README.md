@@ -11,4 +11,11 @@ Ensemble learning helps improve machine learning results by combining several mo
 
 **Ensemble methods are meta-algorithms that combine several machine learning techniques into one predictive model in order to decrease variance (bagging), bias (boosting), or improve predictions (stacking).**
 
-Ensemble methods are techniques that create multiple models and then combine them to produce improved results. Ensemble methods usually produces more accurate solutions than a single model would. This has been the case in a number of machine learning competitions, where the winning solutions used ensemble methods. 
+
+#### **Ensemble methods can be divided into two groups:** 
+
+ - sequential ensemble methods where the base learners are generated sequentially (e.g. AdaBoost).
+The basic motivation of sequential methods is to exploit the dependence between the base learners. The overall performance can be boosted by weighing previously mislabeled examples with higher weight.
+
+ - parallel ensemble methods where the base learners are generated in parallel (e.g. Random Forest).
+The basic motivation of parallel methods is to exploit independence between the base learners since the error can be reduced dramatically by averaging.
