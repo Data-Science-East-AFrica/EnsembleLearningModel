@@ -8,7 +8,7 @@
 ![Forks](https://img.shields.io/github/forks/Data-Science-East-AFrica/EnsembleLearningModel?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/Data-Science-East-AFrica/EnsembleLearningModel)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
-<a href="https://twitter.com/DataScience_Ea"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20DSEA20%Community&color=7289DA" alt="Join DSEA"/></a>
+<a href="https://twitter.com/DataScience_Ea"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20DSEA%20Community&color=7289DA" alt="Join DSEA"/></a>
 
 [Ensemble models](https://blog.statsbot.co/ensemble-learning-d1dcd548e936) in machine learning operate on a similar idea. They combine the decisions from multiple models to improve the overall performance. 
 
