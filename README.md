@@ -6,6 +6,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Data-Science-East-AFrica/EnsembleLearningModel)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Data-Science-East-AFrica/EnsembleLearningModel?style=plastic&color=brightgreen) 
 ![Forks](https://img.shields.io/github/forks/Data-Science-East-AFrica/EnsembleLearningModel?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/Data-Science-East-AFrica/EnsembleLearningModel)
 
 
 [Ensemble models](https://blog.statsbot.co/ensemble-learning-d1dcd548e936) in machine learning operate on a similar idea. They combine the decisions from multiple models to improve the overall performance. 
