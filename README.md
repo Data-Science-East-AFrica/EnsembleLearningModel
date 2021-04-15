@@ -1,5 +1,11 @@
 ## Ensemble Machine Learning Models
 
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub repo size](https://img.shields.io/github/repo-size/Data-Science-East-AFrica/EnsembleLearningModel?color=green-yellow&logo=github&logoColor=blue) 
+![GitHub language count](https://img.shields.io/github/languages/count/Data-Science-East-AFrica/EnsembleLearningModel?logo=visual-studio-code) 
+![GitHub top language](https://img.shields.io/github/languages/top/Data-Science-East-AFrica/EnsembleLearningModel)
+![GitHub last commit](https://img.shields.io/github/last-commit/Data-Science-East-AFrica/EnsembleLearningModel?style=plastic&color=brightgreen) 
+![Forks](https://img.shields.io/github/forks/Data-Science-East-AFrica/EnsembleLearningModel?style=social)
 
 
 [Ensemble models](https://blog.statsbot.co/ensemble-learning-d1dcd548e936) in machine learning operate on a similar idea. They combine the decisions from multiple models to improve the overall performance. 
